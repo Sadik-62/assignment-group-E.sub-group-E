@@ -51,7 +51,7 @@ This project is a static front-end website and does not require a server to run.
 │   ├── CEO-pic.jpg
 │   ├── HOPpic.jpg
 │   └── dev-pic.jpg
-└── assets/ (if applicable, for other files)
+└── image
 
 
 ---
@@ -63,6 +63,7 @@ This project is a static front-end website and does not require a server to run.
 * **Omor Faruk Ahmad Sadik** - Co-Founder & CEO
 * **Md Anamul Haque Antor** - Head of Operations
 * **MD ATIK HASSAN** - Lead Developer
+
 
 
 
